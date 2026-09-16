@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0022-generate-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Knapsack Problem
 |  |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0704-binary-search) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
