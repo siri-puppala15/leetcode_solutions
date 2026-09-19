@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 ## Backtracking
 |  |
 | ------- |
