@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0221-maximal-square](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0221-maximal-square) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Knapsack Problem
