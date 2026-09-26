@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0022-generate-parentheses) |
 ## Array
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0349-intersection-of-two-arrays](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
