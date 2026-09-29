@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0221-maximal-square](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0221-maximal-square) |
 | [0275-h-index-ii](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0221-maximal-square](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Knapsack Problem
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0367-valid-perfect-square](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0367-valid-perfect-square) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
