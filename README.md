@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0221-maximal-square](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0221-maximal-square) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0096-unique-binary-search-trees](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0367-valid-perfect-square](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 ## Longest Increasing Subsequence
 |  |
@@ -145,4 +147,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
