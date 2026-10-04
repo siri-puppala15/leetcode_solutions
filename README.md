@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0400-nth-digit) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0096-unique-binary-search-trees](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0367-valid-perfect-square](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0400-nth-digit) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
