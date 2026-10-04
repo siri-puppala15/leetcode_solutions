@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0290-word-pattern](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0290-word-pattern) |
 ## Array
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
