@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0349-intersection-of-two-arrays](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
