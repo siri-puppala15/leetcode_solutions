@@ -1,14 +1,16 @@
 class Solution(object):
     def minCut(self, s):
         n = len(s)
-        dp = [0] * n
+        dp = [i for i in range(n)]
+        def expand(l, r):
+            while l >= 0 and r < n and s[l] == s[r]:
+                if l == 0:
+                    dp[r] = 0
+                else:
+                    dp[r] = min(dp[r], dp[l - 1] + 1)
+                l -= 1
+                r += 1
         for i in range(n):
-            dp[i] = i
-        for i in range(n):
-            for j in range(i, n):
-                if s[i:j+1] == s[i:j+1][::-1]:
-                    if i == 0:
-                        dp[j] = 0
-                    else:
-                        dp[j] = min(dp[j], dp[i-1] + 1)
-        return dp[n-1]
+            expand(i, i)
+            expand(i, i + 1)
+        return dp[n - 1]
