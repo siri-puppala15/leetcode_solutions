@@ -185,11 +185,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
