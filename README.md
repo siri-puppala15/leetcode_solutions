@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0290-word-pattern](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0290-word-pattern) |
+| [3794-reverse-string-prefix](https://github.com/siri-puppala15/leetcode_solutions/tree/master/3794-reverse-string-prefix) |
 ## Array
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
+| [3794-reverse-string-prefix](https://github.com/siri-puppala15/leetcode_solutions/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
