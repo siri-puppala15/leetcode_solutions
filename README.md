@@ -173,16 +173,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Linked List
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
