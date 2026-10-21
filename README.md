@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0064-minimum-path-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0131-palindrome-partitioning](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0290-word-pattern) |
@@ -246,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
