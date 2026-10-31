@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0221-maximal-square) |
 | [0275-h-index-ii](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/siri-puppala15/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/siri-puppala15/leetcode_solutions/tree/master/3794-reverse-string-prefix) |
